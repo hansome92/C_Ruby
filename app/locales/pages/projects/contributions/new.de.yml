@@ -1,0 +1,9 @@
+de:
+  projects:
+    contributions:
+      new:
+        title: "Neue Spende"
+        minimum_value: 'Spenden Sie einen Betrag von mindestens 10.00 Euro'
+        subtitle: "Waehlen Sie einen Betrag und Ihre Belohnung."
+        contribute: "Spende fuer <strong>%{project_name}</strong>"
+        submit: 'Weiter'

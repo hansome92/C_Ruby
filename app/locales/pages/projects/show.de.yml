@@ -1,0 +1,53 @@
+de:
+  projects:
+    show:
+      so_far: '&nbsp; von &nbsp; '
+      anonymous_contribution: "Anonymer Spender"
+      subtitle:
+        all_or_none: "Eine Kampagne in %{category_name}, in %{city}, von %{author}"
+        flexible: "Eine <span data-tooltip class='has-tip' title='Jeder Euro ist wichtig! <br /><br />Mit diesem Kampagnentyp erhalten Sie alle Zahlungen auch bei Nichterreichen des Kampagnenziels.'>flexible</span> %{category_name} Kampagne von %{author} aus %{city}"
+      status-bar:
+        goal: 'Ziel: %{value}'
+        total_contributions: '%{value} Spender'
+        contribute: 'Contribute'
+      tabs:
+        about: 'Beschreibung'
+        updates: 'Updates'
+        faqs: 'FAQ'
+        comments: 'Kommentare'
+        contributions: 'Spender'
+        budget: 'Budget'
+        terms: 'Bedingungen'
+        reports: 'Berichte'
+      neighbors_behind_this: 'Spenderliste'
+      display_status:
+        all_or_none:
+          reached_goal: "Diese Kampagne ist erfolgreich. Die Auszahlung erfolgt am %{date}"
+          not_reached_goal: "Diese Auszahlung dieser Kampagne erfolgt nur, wenn das Ziel von %{goal} erreicht wird bis %{date}"
+          failed: "Diese Kampagne hat ihr Ziel von %{goal} bis zum %{date} nicht erreicht."
+          successful: "Die Kampagne war erfolgreich und wurde am finanziert am %{date}"
+          waiting_funds: "Einige Finanzierungen werden ggf. noch bewilligt. Daraus ergibt sich, ob die Kampagne finanziert wird."
+          draft: "Diese Kampagne befindet sich noch im Entwurfsmodus. Bitte haben Sie etwas Geduld."
+        flexible:
+          reached_goal: "Diese Kampagne ist erfolgreich. Die Auszahlung erfolgt am %{date}"
+          not_reached_goal: "Diese Kampagne wird finanziert am %{date}"
+          failed: "Diese Kampagne wurde finanziert am %{date}"
+          successful: "Diese Kampagne war erfolgreich und wurde am %{date} finanziert."
+          waiting_funds: "Diese Kampagne wurde geschlossen und wird bald finanziert."
+          draft: "Diese Kampagne befindet sich noch im Entwurfsmodus. Bitte haben Sie etwas Geduld."
+      contribute: 'Contribute'
+      edit: 'Kampagne bearbeiten'
+      share:
+        title: 'Teilen Sie die Kampagne mit Freunden und Bekannten'
+      no-neighbors: "Bisher keine Spender. Seien Sie der Erste!"
+      author:
+        about: 'Von: %{name}'
+      in_partnership_with: 'In Kooperation mit'
+    video_embed:
+      a_project_by_html: "Eine Kampagne von %{link} auf"
+    share:
+      twitter-text: "Sehen Sie sich die Kampagne %{name} #%{hash_tag} auf Contribute.de an: %{project_url}"
+      twitter: 'Tweet'
+      facebook: 'Facebook'
+      email: 'E-Mail'
+      embed: 'Teilen'

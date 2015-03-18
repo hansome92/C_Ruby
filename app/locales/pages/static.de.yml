@@ -1,0 +1,18 @@
+de:
+  static:
+    faq:
+      title: "FAQs"
+    privacy:
+      title: "Datenschutz"
+    terms:
+      title: "AGB"
+    how_it_works:
+      title: 'So funktioniert es'
+    start_terms:
+      title: 'AGB'
+      explore_curious: "Einfach nur umsehen!"
+      explore_projects: "Ich moechte die Kampagnen ansehen."
+      submit: "Naechster Schritt!"
+      send_project: "Ich moechte meine Kampagne einreichen."
+    base:
+      title: 'This is the base of a static page'

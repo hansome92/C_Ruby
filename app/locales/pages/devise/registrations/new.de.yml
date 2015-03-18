@@ -1,0 +1,18 @@
+de:
+  devise:
+    registrations:
+      new:
+        have_account_html: "Bereits Mitglied? <strong>%{link}</strong>"
+        titles:
+          site: 'Jetzt anmelden'
+          header: 'Bei Contribute.de anmelden'
+        links:
+          login: "Login <i class='icon-et-right-circled'></i>"
+        form:
+          labels:
+            show_password: 'Password anzeigen'
+          hint:
+            password_length: '*muss mindestens 6 Zeichen lang sein.'
+          inputs:
+            submit: 'Jetzt anmelden'
+            facebook: 'Anmeldung via Facebook'

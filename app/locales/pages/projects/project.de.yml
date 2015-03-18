@@ -1,0 +1,10 @@
+de:
+  projects:
+    project:
+      get_involved: 'Jetzt mitmachen!'
+      completed: 'Fertiggestellt'
+      soon: 'Bald online'
+      share:
+        twitter-text: "Schau Dir die Kampagne %{name} #%{hash_tag} auf Contribute.de an"
+        twitter: 'Tweet'
+        facebook: 'Teilen'

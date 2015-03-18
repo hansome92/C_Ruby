@@ -1,0 +1,5 @@
+de:
+  will_paginate:
+    next: "Vor »"
+    page_gap: "..."
+    previous: "« Zurueck"

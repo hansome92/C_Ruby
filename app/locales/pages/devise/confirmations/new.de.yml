@@ -1,0 +1,15 @@
+de:
+  devise:
+    confirmations:
+      new:
+        no_account_html: "Brauchen Sie einen Account? <strong>%{link}</strong>"
+        titles:
+          site: 'Anleitung erneut versenden'
+          header: 'Anleitung erneut versenden'
+        links:
+          register: "Anmelden <i class='icon-et-right-circled'></i>"
+        form:
+          labels:
+            email: 'Ihre E-Mail-Adresse'
+          inputs:
+            submit: 'Anleitung erneut versenden'

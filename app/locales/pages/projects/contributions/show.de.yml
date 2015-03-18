@@ -1,0 +1,17 @@
+de:
+  projects:
+    contributions:
+      show:
+        title: 'Vielen Dank'
+        thank_you: 'Vielen Dank! %{project_name} ist durch Ihre Spende etwas erfolgreicher geworden.'
+        recommended_projects: 'Sehen Sie sich auch weitere interessante Kampagnen an:'
+        share: 'Helfen Sie %{project_owner_name} indem Sie anderen Menschen von der Kampagne und Ihrer Spende berichten!'
+        twitter-text: 'Ich habe gerade mit %{value} die Kampagne von %{name} auf Contribute unterstuetzt: %{project_url}'
+        facebook: 'Teilen'
+        twitter: 'Tweet'
+        bankaccount:
+          title: 'Sie nutzen ein Bankkonto fuer Ihre Spende. Bitte verifizieren Sie Ihr Konto, um Ihre Spende zu taetigen.'
+          steps:
+            first: 'We will make two small deposits (each less than $1.00) to this account. Deposits may take 1-2 business days to appear.'
+            second: 'You will receive an email with a link to verify your account using the two deposit amounts.'
+            third: 'Once your account has been verified, your contribution will be processed and automatically reflected in the campaign you contributed to.'

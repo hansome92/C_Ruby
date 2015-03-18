@@ -1,0 +1,8 @@
+de:
+  projects:
+    contributions:
+      index:
+        empty: "Bisher keine Spenden. Fangen Sie an!"
+      contribution:
+        anonymous_contribution: "Anoynmer Spender"
+        no_reward: "Der Spender hat keine Belohnung ausgesucht"

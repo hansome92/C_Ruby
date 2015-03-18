@@ -1,0 +1,6 @@
+de:
+  projects:
+    updates:
+      update:
+        destroy: 'Update entfernen'
+        created_at: 'Aktualisiert am %{time}'

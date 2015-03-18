@@ -1,0 +1,60 @@
+# Additional translations at https://github.com/plataformatec/devise/wiki/I18n
+de:
+  devise:
+    confirmations:
+      confirm: "Bitte ueberpruefen Sie Ihre E-Mail und folgen den Anweisungen. Nicht erhalten? <a href='%{link}'>Erneut zusenden.</a>"
+      confirmed: "Ihr Account wurde erfolgreich freigeschaltet."
+      send_instructions: "Sie erhalten eine E-Mail mit Anweisungen, wie Sie Ihr Konto in wenigen Minuten freischalten."
+      send_paranoid_instructions: "Wenn Ihr E-Mail-Adresse in unserer Datenbank vorhanden ist, erhalten Sie eine E-Mail mit Anweisungen, wie Sie Ihr Konto in wenigen Minuten freischalten."
+    failure:
+      already_authenticated: "Sie sind bereits angemeldet."
+      inactive: "Ihr Account wurde noch nicht aktiviert."
+      invalid: "Falsche E-Mail-Adresse oder Passwort."
+      locked: "Ihr Benutzeraccount ist gesperrt."
+      last_attempt: "Sie haben noch einen Versuch, bevor Ihr Konto wird gesperrt."
+      not_found_in_database: "Ungueltige E-Mail oder Passwort."
+      timeout: "Ihre Sitzung ist abgelaufen. Bitte melden Sie sich erneut an."
+      unauthenticated: "Bitte loggen Sie sich ein oder registrieren sich"
+      unconfirmed: "Bitte bestaetigen Sie zunaechst Ihren Account."
+    mailer:
+      confirmation_instructions:
+        subject: "Anleitung zur Bestaetigung"
+      reset_password_instructions:
+        subject: "Anleitung zum Reset des Passworts"
+      unlock_instructions:
+        subject: "Anleitung zum Entsperren"
+    omniauth_callbacks:
+      failure: "Wir konnten Sie nicht authentifizieren %{kind} weil \"%{reason}\"."
+      success: "Erfolgreich angemeldet durch %{kind}."
+    passwords:
+      no_token: "Ohne die Bestaetigung des Passwort-Resets koennen Sie nicht auf diese Seite zugreifen."
+      send_instructions: "Sie erhalten eine E-Mail mit Anweisungen, wie Sie Ihr Passwort in wenigen Minuten zuruecksetzen."
+      send_paranoid_instructions: "Wenn Ihr E-Mail-Adresse in unserer Datenbank vorhanden ist, erhalten Sie in wenigen Minuten einen Passwort-Recovery-Link per E-Mail."
+      updated: "Ihr Passwort wurde erfolgreich aktualisiert. Sie sind nun eingeloggt."
+      updated_not_active: "Ihr Passwort wurde erfolgreich aktualisiert."
+    registrations:
+      destroyed: "Ihr Account wurde erfolgreich geschlossen. Besuchen Sie uns doch mal wieder. Auf Wiedersehen!"
+      signed_up: 'Willkommen bei Contribute.de! Bitte <a href="%{link}">aktualisieren Sie Ihr Profil</a>!'
+      signed_up_but_inactive: "Sie haben sich erfolgreich angemeldet. Allerdings koennen Sie sich aktuell nicht einloggen, da der Account noch nicht aktiviert ist."
+      signed_up_but_locked: "Sie haben sich erfolgreich angemeldet. Allerdings koennen Sie sich aktuell nicht einloggen, da der Account gesperrt ist."
+      signed_up_but_unconfirmed: "Eine Nachricht mit einem Bestaetigungslink wurde an Ihre E-Mail-Adresse geschickt. Bitte klicken Sie zur Aktivierung auf den Link."
+      update_needs_confirmation: "Sie haben Ihren Account erfolgreich aktualisiert, aber die E-Mail-Adresse muss noch verifiziert werden. Um diesen Vorgang abzuschliessen, klicken Sie bitte in unserer E-Mail auf den Bestaetigungslink."
+      updated: "Sie haben Ihren Account erfolgreich aktualisiert."
+    sessions:
+      signed_in: "Hallo!"
+      signed_in_custom: 'Hallo! Bitte <a href="%{link}">vervollstaendigen Sie Ihr Profil</a>. Vielen Dank!'
+      signed_out: "Auf Wiedersehen. Besuchen Sie uns bald wieder."
+    unlocks:
+      send_instructions: "Sie erhalten eine E-Mail mit Anweisungen, wie Sie Ihr Konto in wenigen Minuten freischalten."
+      send_paranoid_instructions: "Wenn Sie bereits ein Konto haben, erhalten Sie eine E-Mail mit Anweisungen, wie Sie es in ein paar Minuten freischalten."
+      unlocked: "Ihr Konto wurde erfolgreich entsperrt. Bitte melden Sie sich an, um fortzufahren."
+  errors:
+    messages:
+      already_confirmed: "wurde bereits bestaetigt, bitte versuchen Sie sich einzuloggen"
+      confirmation_period_expired: "muss innerhalb %{period} bestaetigt werden, bitte beantragen Sie einen neuen Account"
+      expired: "ist abgelaufen, bitte beantragen Sie einen neuen Zugang"
+      not_found: "nicht gefunden"
+      not_locked: "war nicht gesperrt"
+      not_saved:
+        one: "1 error prohibited this %{resource} from being saved:"
+        other: "%{count} errors prohibited this %{resource} from being saved:"

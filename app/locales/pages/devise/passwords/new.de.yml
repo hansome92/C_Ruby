@@ -1,0 +1,15 @@
+de:
+  devise:
+    passwords:
+      new:
+        no_account_html: "Kein Problem!"
+        titles:
+          site: 'Password vergessen?'
+          header: 'Password vergessen?'
+        links:
+          register: "Anmelden"
+        form:
+          labels:
+            email: 'Ihre E-Mail'
+          inputs:
+            submit: 'Anleitung zusenden'

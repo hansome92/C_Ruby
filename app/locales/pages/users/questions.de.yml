@@ -1,0 +1,7 @@
+de:
+  users:
+    questions:
+      new:
+        title: 'Stellen Sie eine Frage zu %{project_name}'
+        to: 'An: %{user_name}'
+        send: 'Frage stellen'

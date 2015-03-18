@@ -1,0 +1,22 @@
+de:
+  channels:
+    profiles:
+      show:
+        unfollow: 'Nicht mehr folgen'
+        follow: 'Folgt uns'
+        submit: 'Jetzt bewerben'
+        projects_we_support: 'Kampagnen, die wir unterst&uuml;tzen'
+        see_more: 'Mehr erfahren'
+        see_less: 'Weniger Details'
+        submit_your_project:
+          title: 'Reichen Sie Ihr Projekt ein'
+          text: "Sie haben ein passendes Projekt? Reichen Sie Ihre Kampagne hier ein! Kampagnen, die mit unserem Portalziel in Zusammenhang stehen, erscheinen auch im Bereich Vorgestellte Kampagnen."
+          button: 'Jetzt bewerben'
+        about:
+          title: '&Uuml;ber uns'
+        connect:
+          title: 'Verbinde mit'
+          facebook: 'Facebook'
+          twitter: 'Twitter'
+          email: 'E-Mail'
+          website: 'Website'

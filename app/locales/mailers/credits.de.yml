@@ -1,0 +1,16 @@
+de:
+  credits_mailer:
+    request_refund_from:
+      subject: "Antrag auf Rueckerstattung vom Projekt %{name}"
+      subject_html: "Das Mitglied %{name} hat einen Antrag auf Rueckerstattung gestellt. %{contribution_key} Projekt %{contribution_project} Betrag %{contribution_value} via %{contribution_payment_service} Gateway."
+      user_name: 'Benutzername'
+      user_email: 'E-Mail-Adresse des Mitglieds'
+      payer_email: 'Payment E-Mail'
+      payer_name: 'Benutzername der Spende'
+      project: 'Projekt'
+      contribution_key: 'Contribution-ID'
+      payment_id: 'Payment-ID'
+      contribution_value: 'Betrag'
+      payment_method: 'Zahlungsmethode'
+      payment_choice: 'Payment choice'
+      created_at: 'erstellt am'

@@ -1,0 +1,12 @@
+de:
+  users:
+    settings:
+      change_password: "Passwort aendern"
+      password_info: "Um ein neues Passwort zu generieren, brauchen wir auch Ihr aktuelles Passwort."
+      save_password: 'Neues Passwort speichern'
+      communication_preferences: 'Kontaktaufnahme'
+      update_communication_preferences: 'Einstellungen speichern'
+      unsubscribes:
+        title: 'Benachrichtigungen aus Projekt-Updates'
+        updates: 'Ich moechte Kampagnen-Updates erhalten'
+        submit: 'Einstellungen speichern'

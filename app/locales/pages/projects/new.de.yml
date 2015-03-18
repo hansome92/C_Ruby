@@ -1,0 +1,38 @@
+de:
+  projects:
+    new:
+      titles:
+        site: 'Neue Kampagne erstellen'
+        header: 'Neue Kampagne erstellen'
+        sub: 'Starten Sie jetzt Ihre Kampagne auf Contribute.de!'
+      joyride:
+        next: 'Weiter'
+        done: 'Erledigt'
+        start:
+          title: 'Sie reichen eine Kampagnen-Idee ein.'
+          description: 'Diese Informationen lassen sich nachher noch bearbeiten.'
+        category:
+          title: 'Kategorie'
+          description: 'Welche Kategorie passt zu Ihrer Kampagne? Kategorien lassen sich nachher noch bearbeiten.'
+        name:
+          title: 'Kampagnen-Titel'
+          description: 'Welchen Namen soll Ihre Kampagnen erhalten? Wir empfehlen einen kurzen Titel!'
+        campaign_type:
+          title: 'Kampagnen-Typ'
+          description: 'Welcher Kampagnen-Typ soll es sein? <br /><br/> <strong>Jeder Euro ist wichtig:</strong> Sie erhalten Zahlungen auch, wenn das Kampagnenziel nicht erreicht wurde. <br /> <strong>Alles oder nichts:</strong> Sie erhalten die finanziellen Zuwendungen nur, wenn das Kampagnenziel erreicht wird.'
+        goal:
+          title: 'Kampagnen-Ziel'
+          description: 'Geben Sie hier den Gesamtbetrag Ihrer Kampagne an. Bitte geben Sie einen Betrag ohne Kommas an.'
+        address:
+          title: 'Region / Stadt'
+          description: 'Geben Sie hier bitte Ihren Standort ein?'
+        headline:
+          title: 'Zusammenfassung'
+          description: 'Beschreiben Sie Ihre Kampagne (140 Zeichen).'
+        about:
+          title: 'Ihre Kampagne'
+          description: "Teilen Sie hier mit, warum Ihre Kampagne finanzielle Zuwendungen erhalten sollte."
+        organization_type:
+          title: 'Typ'
+          description: 'Welche Eigenschaft beschreibt Sie oder Ihre Organisation?'
+      accept_terms_html: 'Mit dem Einreichen Ihrer Kampagne akzeptieren Sie %{link}.'

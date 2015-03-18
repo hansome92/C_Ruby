@@ -1,0 +1,12 @@
+de:
+  rewards:
+    index:
+      sold_out: 'Sorry, diese Belohnung ist vergriffen!'
+      add: 'Eine Belohnung hinzufuegen'
+      estimated_deliver: "Liefertermin: %{prevision}"
+      contributions_to_confirm:
+        one:  "1 aktuelle Spenden, die bestaetigt werden sollen."
+        other: "%{count} aktuelle Spenden, die bestaetigt werden sollen."
+      reward_title: "Fuer %{minimum} oder mehr"
+      contact: 'Kontakt'
+      reward_deliver_time: "Liefertermin: %{prevision}"

@@ -1,0 +1,33 @@
+de:
+  projects:
+    index:
+      title: 'Soziales Spendenportal - Crowdfunding und Fundraising Deutschland'
+      recommended: 'Vorgestellte Kampagnen'
+      near: 'Kampagnen in der N&auml;he'
+      channels: 'Partner'
+      ending_soon: 'Nur noch wenige Tage online '
+      successful: 'Erfolgreiche Kampagnen'
+      coming_soon: 'Neue Kampagnen (bald online)'
+      join:
+        join_the_neighborhood: 'Machen Sie mit!'
+        already_joined: 'Schon angemeldet? %{link}.'
+        sign_in: 'Jetzt anmelden'
+      hero:
+        title: 'Die soziale Unterst&uuml;tzungsplattform <strong>Contribute.de</strong>'
+        subtitle: "Contribute.de macht es einfach, soziale Projekte zu starten."
+      how-it-works:
+        one:
+          headline: 'Fragen zum Portal?'
+          text: 'Bei Fragen zu Contribute stehen wir Ihnen gerne zur Verfuegung. Nehmen Sie einfach Kontakt auf.'
+          button: 'Kontakt aufnehmen'
+        two:
+          headline: 'Neue Kampagne'
+          text: "Sie sind auf der Suche nach Spenden? Dann starten Sie jetzt bei Contribute Ihre Kampagne!"
+          button: 'Jetzt starten'
+        three:
+          headline: 'Kampagnensuche'
+          text: 'Entdecken Sie interessante Kampagnen und helfen Sie anderen Menschen hier bei Contribute.de.'
+          button: 'Jetzt suchen'
+      start-one:
+        title: 'Haben Sie ein soziales Projekt und wollen jemanden helfen?'
+        button: 'Erstellen Sie jetzt online Ihre Kampagne!'

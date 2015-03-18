@@ -1,0 +1,8 @@
+de:
+  users:
+    set_email:
+      update_email_title: 'Fuegen Sie Ihre E-Mail-Adresse hinzu'
+      site_title: 'Erstellen Sie einen Contribute-Account'
+      title: 'Bitte geben Sie Ihre E-Mail-Adresse an'
+      submit: 'Fortfahren'
+      create: 'Treten Sie Contribute.de bei'

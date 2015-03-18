@@ -1,0 +1,19 @@
+de:
+  devise:
+    sessions:
+      new:
+        no_account_html: "Noch kein Mitglied? <strong>%{link}</strong>"
+        titles:
+          site: 'Login'
+          header: 'Login'
+        links:
+          register: "Jetzt anmelden <i class='icon-et-right-circled'></i>"
+          forgot_password: "Haben Sie Ihr Password vergessen?"
+          new_user_confirmation: "Keine Bestaetigungsmail erhalten?"
+        form:
+          labels:
+            remember_me: 'Angemeldet bleiben'
+          inputs:
+            submit: 'Login'
+            facebook: 'Login via Facebook'
+

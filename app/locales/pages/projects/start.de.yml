@@ -1,0 +1,45 @@
+de:
+  projects:
+    start:
+      title: "Hinweise zur Kampagnenerstellung"
+      get-started: 'Kampagne jetzt starten!'
+      steps:
+        first:
+          title: '1. Reichen Sie eine Kampagnen-Idee ein'
+          description: "Der erste Schritt beginnt mit dem Einreichen Ihrer Kampagnen-Idee."
+        second:
+          title: '2. Pruefung & Freischaltung'
+          description: "Wir pruefen Ihren Vorschlag und informieren Sie, sobald die Kampagne online ist."
+        third:
+          title: '3. Starten Sie Ihre Kampagne'
+          description: "Jetzt kann es losgehen mit dem Sammeln von Spenden fuer Ihr Projekt!"
+      who:
+        title: 'Wer kann eine Kampagne starten?'
+        local-governments: 'Leute wie Du und ich'
+        nonprofits: 'Partner, Ehefrau oder Ehemann'
+        neighborhood-organizations: 'Freunde und Nachbarn'
+        description: "Im Grunde genommen kann jede Person eine Kampagne auf Contribute.de starten. Aber auch Freunde, Bekannte, Nachbarn oder Familienmitglieder sind in der Lage, anderen Menschen mit einer Kampagne zu helfen."
+      work:
+        title: 'Starter-Tipps - eine erfolgreiche Kampagne'
+        subtitle: "Das sollten Sie beachten:"
+        team:
+          title: 'Ein starkes Team'
+          description: "Um das beste Resultat zu erzielen, sollten Sie aktive Helfer haben, die Ihre Kampagne gut finden und Ihnen helfen, Ihr Kampagnenziel zu erreichen."
+        imagery:
+          title: 'Bildergalerie'
+          description: 'Ein Bild sagt mehr als tausend Worte. Wecken Sie mit passenden Bildern Interesse an Ihrer Kampagne.'
+        video:
+          title: 'Passendes Video'
+          description: 'Ein Video ist ein gutes Instrument einer Kampagnen-Zusammenfassung. Mit bewegten Bildern lassen sich mehr Emotionen transportieren.'
+        detailed:
+          title: 'Beschreibung'
+          description: 'Beschreiben Sie Ihr Projekt so, dass Ihre Interessenten viel erfahren. Achten Sie auf die Details und lassen Sie andere genau wissen, warum gerade Ihre Kampagne Spenden erhalten sollten.'
+        rewards:
+          title: 'Attraktive Belohnungen'
+          description: 'Schaffen Sie durch kleine Belohnungen noch mehr Interesse. Diese Funktion ist optional und muss nicht genutzt werden.'
+        engagement:
+          title: 'Kontinuierliches Engagement'
+          description: 'Bleiben Sie mit Ihren Helfern verbunden und finden Sie weitere Helfer. Das richtige Engagement macht Ihre Kampagne noch erfolgreicher!'
+      inspiration:
+        title: 'Brauchen Sie ein wenig Inspiration?'
+        subtitle: 'Dann sehen Sie sich einfach diese erfolgreichen Kampagnen an:'

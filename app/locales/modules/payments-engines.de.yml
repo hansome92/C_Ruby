@@ -1,0 +1,10 @@
+de:
+  payments:
+    common:
+      terms: 'Mit meiner Spende akzeptiere ich die AGBS von Contribute %{link}.'
+      terms-link: 'AGBs'
+      confirm: 'Zahlung bestaetigen'
+      proccessing: 'Processing...'
+      error:
+        title: "Sorry, ein Fehler ist aufgetreten."
+        name: 'Bitte laden Sie diese Seite erneut und versuchen es noch einmal.'

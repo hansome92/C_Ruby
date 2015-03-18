@@ -1,0 +1,17 @@
+de:
+  layouts:
+    footer:
+      quick_links: 'Contribute.de'
+      about: 'Über uns'
+      discover: 'Find Projects'
+      start_campaign: 'Start a Campaign'
+      how_it_works: 'How It Works'
+      contact: 'Kontakt'
+      faq: 'FAQ / Hilfe'
+      legal: 'Privacy Policy'
+      terms: 'Terms of Use'
+      stay_in_touch: "Soziales Fundraising"
+      built_with_love: '&copy; 2014 Contribute.de Alle Rechte vorbehalten. &nbsp; <a href="/kontakt">Kontakt</a>&nbsp; | &nbsp;<a href="/datenschutz">Datenschutz</a>&nbsp; | &nbsp;<a href="/agb">AGB</a>&nbsp; | &nbsp;<a href="/aup">AUP</a>&nbsp; | &nbsp;<a href="/impressum">Impressum</a>'
+      now_accepting_proposals: 'Contribute.de'
+      now_accepting_proposals_text: 'Contribute.de ist eine soziale Spendenplattform. Unser Angebot richtet sich vorwiegend an Menschen, die auf Hilfe von Dritten angewiesen sind.'
+      we_want_to_help: 'Jetzt Kampagne starten!'

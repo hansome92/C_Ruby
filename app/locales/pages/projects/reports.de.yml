@@ -1,0 +1,7 @@
+de:
+  projects:
+    reports:
+      link_reports: 'Bericht-Download '
+      all_contributions: 'Alle Mitwirkenden'
+      all_contributions_without_reward: "Alle Mitwirkenden, die auch eine Belohnung erhalten haben "
+      link_reward: 'Alle Mitwirkenden, die diese Belohnung erhalten haben '

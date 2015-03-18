@@ -1,0 +1,17 @@
+de:
+  discover:
+    index:
+      title: 'Kampagnensuche'
+      empty: 'Keine passenden Kampagnen gefunden.'
+      tags: 'Tags: '
+      near: 'Nach Ort'
+      category: 'Nach Kategorie'
+      filter: 'Nach Status'
+      showing_results_for: 'Trefferliste: '
+      filters:
+        recommended: 'Empfohlen'
+        expiring: 'Endet bald'
+        recent: 'Aktuell'
+        successful: 'Erfolgreich'
+        soon: 'Bald online'
+      channels: 'Partner'

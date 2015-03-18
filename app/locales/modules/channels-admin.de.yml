@@ -1,0 +1,48 @@
+de:
+  channels:
+    admin:
+      dashboard:
+        index:
+          title: 'Dashboard'
+          menu: 'Dashboard'
+          total_projects:
+            title: 'Kampagnen insgesamt'
+            hint: 'Anzahl der Kampagnen'
+          total_subscribers:
+            title: 'Followers insgesamt'
+      management:
+        title: "Channel Management"
+        total: 'Insgesamt'
+      filter:
+        title: 'Filter'
+        pg_search: 'Suche'
+        submit: 'Filter'
+        with_state: 'Nach Bundesland'
+        order_table: 'Order table'
+        user_name_contains: 'Benutzername'
+        between_created_at: 'Erstellt zwischen'
+      followers:
+        title: 'Followers'
+        download: 'Followers Report runterladen'
+        menu: 'Followers'
+      profile:
+        menu: 'Channel-Informationen bearbeiten'
+      projects:
+        index:
+          menu: 'Kampagnen'
+          name: 'Name'
+          category: 'Kategorie'
+          user_id: 'Benutzer-ID'
+          goal: 'Ziel'
+          pledged: 'Pledged'
+          total_contributions: 'Spenden'
+          recommended: 'Empfohlen?'
+          online_date: 'Online Datum'
+          expires_at: 'Abgelaufen am'
+          state: 'Bundesland'
+          approve: 'Genehmigen!'
+          reject: 'Ablehnen!'
+          send_to_draft: 'Als Entwurf speichern!'
+          order_asc: 'Ziel asc'
+          order_desc: 'Ziel desc'
+          order_created_at: 'Datum der Einreichung'

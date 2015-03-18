@@ -1,0 +1,10 @@
+de:
+  layouts:
+    header:
+      start_campaign: 'Kampagne starten'
+      discover: 'Kampagnensuche'
+      about: 'Contribute.de'
+      sign-out: 'Logout'
+      sign-up: 'Anmelden'
+      sign-in: 'Login'
+

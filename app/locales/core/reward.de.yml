@@ -1,0 +1,12 @@
+de:
+  activerecord:
+    models:
+      reward: 'Belohnung'
+    attributes:
+      reward:
+        title: 'Erstellen Sie einen kurzen Titel, der beinhaltet, was der Spender bekommt.'
+        description: "Beschreiben Sie die Belohnung so, dass der potenzielle Spender neugierig wird."
+        maximum_contributions: "Limitieren Sie die Anzahl der Belohnungen."
+        minimum_value: "Der Mindestbetrag, um die Belohnung zu erhalten."
+        days_to_delivery: "Geben Sie an, wann in etwa nach Kampagnenende der Spender die Belohnung erhalten wird."
+        soon: 'Coming-soon-Belohnung?'

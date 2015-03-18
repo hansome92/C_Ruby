@@ -1,0 +1,14 @@
+de:
+  users:
+    authorizations:
+      title: 'Soziales Netzwerk'
+      connect:
+        facebook: 'Mit Facebook verbinden'
+        twitter: 'Mit Twitter verbinden'
+        google_oauth2: 'Mit Google verbinden'
+        linkedin: 'Mit Linkedin verbinden'
+      disconnect:
+        facebook: 'Facebook-Verbindung entfernen'
+        twitter: 'Twitter-Verbindung entfernen'
+        google_oauth2: 'Google-Verbindung entfernen'
+        linkedin: 'Linkedin-Verbindung entfernen'

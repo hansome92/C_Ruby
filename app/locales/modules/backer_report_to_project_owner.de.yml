@@ -1,0 +1,18 @@
+de:
+  contribution_report_to_project_owner:
+    user_name: 'Spendername'
+    value: 'Spendebetrag'
+    minimum_value: 'Belohnungswert'
+    reward_description: 'Beschreibung der Belohnung'
+    created_at: 'Spende gemacht am'
+    confirmed_at: 'Spende bestaetigt'
+    service_fee: 'Gebuehren'
+    user_email: 'E-Mail'
+    payment_method: 'Zahlungsmethode'
+    address_street: 'Strasse'
+    address_neighborhood: 'Weitere Adressdaten'
+    address_city: 'Stadt'
+    address_state: 'Bundesland'
+    address_zip_code: 'PLZ'
+    anonymous: 'Anonym'
+    short_note: 'Nachricht'

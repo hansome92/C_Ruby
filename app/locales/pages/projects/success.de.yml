@@ -1,0 +1,8 @@
+de:
+  projects:
+    success:
+      titles:
+        site: 'Erfolgreich eingereicht!'
+        header: 'Erfolgreich eingereicht!'
+      text: 'Super, ist der erste Schritt abgeschlossen!! Unser Team wird sich Ihre Kampagne vor der Freischaltung nun genauer ansehen. <br /><br />Wir bieten Sie nun um etwas Geduld. Durchschnittlich dauert die Sichtung zwischen 24 und 48 Stunden!'
+      continue: 'Weiter'

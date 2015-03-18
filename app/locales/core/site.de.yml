@@ -1,0 +1,11 @@
+de:
+  facebook_locale: 'en_US'
+  site:
+    title: "Soziales Spendenportal - Crowdfunding und Fundraising Deutschland"
+    meta_title:  "%{title} · %{company_name}"
+    description: "Contribute.de - eine der besten Möglichkeiten, um online finanzielle Unterstützung zu erhalten. Für Notsituationen, Wünsche und vieles mehr. Crowdfunding für Deutschland einfach gemacht!"
+    keywords: "crowdfunding, fundraising"
+    email:
+      contact: 'info@contribute.de'
+    ograph:
+      description: "Contribute.de - eine der besten Möglichkeiten, um online finanzielle Unterstützung zu erhalten. Für Notsituationen, Wünsche und vieles mehr. Crowdfunding für Deutschland einfach gemacht!"

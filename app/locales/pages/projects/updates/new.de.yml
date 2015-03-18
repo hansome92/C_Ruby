@@ -1,0 +1,10 @@
+de:
+  projects:
+    updates:
+      new:
+        send: "Update senden"
+        comment: "Update Text"
+        exclusive: "Nur fuer meine Unterstuetzer sichtbar?"
+        title: "Titel des Updates"
+        warning: "Ihr Update wird automatisch per E-Mail an Ihre bisherigen Unterstuetzer geschickt. Bitte ueberpruefen Sie sorgfaeltig den Text vor dem Versand."
+        created: 'Ihr Update wurde erfolgreich gesendet!'

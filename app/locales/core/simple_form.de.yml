@@ -1,0 +1,126 @@
+de:
+  simple_form:
+    "yes": 'Ja'
+    "no": 'Nein'
+    required:
+      text: 'Pflichtfeld'
+      mark: '*'
+      # You can uncomment the line below if you need to overwrite the whole required html.
+      # When using html, text and mark won't be used.
+      # html: '<abbr title="required">*</abbr>'
+    error_notification:
+      default_message: "Please review the problems below:"
+    placeholders:
+      user:
+        name: 'Name'
+        email: 'E-Mail'
+        password: 'Passwort'
+        current_password: 'Aktuelles Password'
+        bio: 'Nicht mehr als 140 Zeichen...'
+        facebook_url: 'http://facebook.com/'
+        other_url: 'http://www.'
+        linkedin_url: 'http://linkedin.com/in/'
+        twitter_url: 'http://twitter.com/'
+      channel:
+        facebook: 'http://facebook.com/'
+        twitter: 'http://twitter.com/'
+        website: 'http://www.'
+    labels:
+      company_contact:
+        first_name: 'Vorname'
+        last_name: 'Nachname'
+        company_name: 'Firma'
+        company_website: 'Webseite'
+        email: 'E-Mail-Adresse'
+        phone: 'Telefon'
+        message: "Moechten Sie etwas bestimmes erfahren?"
+      channel:
+        how_it_works: 'Ueber uns'
+        submit_your_project_text: 'Reichen Sie Ihre Kampagne ein'
+        start_hero_image: 'Hauptbild'
+        start_content:
+          start_primary_content: 'Primary Content'
+          start_secondary_content: 'Secondary Content'
+      user:
+        bio: 'Kurze Beschreibung'
+        password: 'Neues Passwort'
+        newsletter: 'Senden Sie mir den Contribute-Newsletter zu'
+        new_project: 'Informieren Sie mich ueber neue Kampagnen auf Contribute.de'
+        profile_type: 'Profiltyp'
+        phone_number: 'Telefonnummer'
+        address: 'Stadt, Bundesland'
+        address_street: 'Adresse'
+        address_neighborhood: 'Weitere Angaben'
+        address_zip_code: 'PLZ'
+        other_url: 'Webseite'
+        update_address: "Meine Adresse in meinem Profil automatisch aktualisieren."
+      project:
+        name: 'Titel der Kampagne'
+        campaign_type: 'Kampagnen-Typ'
+        category_id: 'Kategorie'
+        category: 'Kategorie'
+        permalink: 'Permalink'
+        goal: 'Kampagnen Budget'
+        headline: 'Zusammsenfassung'
+        about: 'Beschreibung'
+        expires_at: 'Dauer'
+        online_days: 'Dauer'
+        video_url: 'Video'
+        uploaded_image: 'Vorschaubild'
+        hero_image: 'Kampagnenbild'
+        site: 'Webseite'
+        hash_tag: 'Hashtag'
+        foundation_widget: 'Use new foundation widget?'
+        address_neighborhood: 'Weitere Angaben'
+        address: 'Stadt'
+        address_city: 'Stadt'
+        address_state: 'Bundesland'
+        budget: 'Budget Detail'
+        tag_list: 'Keywords'
+        street_address: 'Adresse'
+        new:
+          category_id: 'Kampagnen-Kategorie'
+      contribution:
+        new:
+          anonymous: 'Optional: Spenden Sie anonym.'
+          short_note: 'Optional: Fuegen Sie eine kurze Nachricht hinzu. Diese wird mit Ihrem Namen bei den Kommentaren erscheinen.'
+    hints:
+      project:
+        edit:
+          video_url_edit: 'Fuegen Sie hier die URL Ihres Vimeo- oder Youtube-Videos ein.'
+          about: "Erzaehlen Sie uns die Geschichte Ihres Projekts. Was ist es, warum ist es wichtig, und warum sollte dieses Projekt unterstuezt werden? Hier ist der Ort fuer Ihre Details."
+          category: "In welche Kategorie passt Ihre Kampagen?"
+          expires_at: "Wie lange soll Ihre Kampagne laufen? Wir empfehlen eine Laufzeit zwischen 30 und 60 Tagen."
+          goal: "Welches Kampagnenziel moechten Sie erreichen? Bitte keine Kommas, Dezimal- oder Waehrungszeichen."
+          first_contributions: "Von Vorteil ist es, wenn Sie bereits potenzielle Spender haben. Hier koennen Sie angeben, mit welchen Spenden Sie am ersten Kampagnentag bereits rechnen."
+          headline: "Fassen Sie Ihr Projekt in bis zu 130 Zeichen zusammen. Was macht es besonders?"
+          name: "Seien Sie praezise und objektiv. 8 Woerter oder weniger."
+          uploaded_image: "Bildformat ab 500x340 px(.jpg oder .png)."
+          hero_image: "Bildformat ab 1600x600 px(.jpg oder .png)."
+          video_url: "Fuegen Sie den Link von einem Youtube oder Vimeo Video ueber Ihr Projekt hinzu. Das Video sollte kurz genug, um den Betrachter zu interessieren, aber aussagekraeftig genug, um das Projekt klar zu verstehen."
+          hash_tag: 'Eine kurzer Hashtag, der in Tweets und Facebook-Updates hinzugefuegt werden kann.'
+          site: "Falls es eine Projekt-Webseite gibt, tragen Sie den Link hier ein."
+          foundation_widget: 'Klicken Sie hier, wenn Sie das Embed-Widget nutzen moechten.'
+          campaign_type: 'Alles oder Nichts: Sie erhalten die Spenden nur, wenn das Ziel in der vorgegebenen Zeit erreicht wird. <br> Jeder Euro ist wichtig: Sie behalten die Spendengelder auch, wenn das Ziel nicht erreicht wurde.'
+          budget: 'Spender fuehlen sich am wohlsten, wenn Sie einen klaren Plan haben, was mit den Spenden passiert. Erklaeren Sie kurz, wie das Geld verwendet werden soll.'
+          permalink: 'Automatisch generiert. Dies koennen Sie spaeter bearbeiten.'
+          headlinet: 'Hinweis'
+          address_neighborhood: 'Weitere spezifische Hinweise zu Prokektstandort.'
+          address_city: 'An welchem Ort befinden Sie oder Ihr Projekt sich?'
+          address_state: 'Waehlen Sie ein Bundesland aus.'
+          tag_list: "Das Hinzufuegen von Keywords verbessert die Chancen, dass Ihre Kampagne gefunden wird. Verwenden Sie Keywords, die nur im direkten Zusammenhang mit der Kampagne stehen."
+      channel:
+        image: "Bildformat ab 600x300 px(.jpg oder .png)."
+      organization:
+        image: "Bildformat ab 300x150 px(.jpg oder .png)."
+      user:
+        uploaded_image: "Bildformat ab 150x150 px(.jpg oder .png)."
+  helpers:
+    submit:
+      company_contact:
+        create: "Lassen Sie uns miteinander sprechen!"
+      user:
+        update: 'Aenderungen speichern'
+      project:
+        create: 'Kampagne erstellen'
+        update: 'Kampagne aktualisieren'

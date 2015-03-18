@@ -1,0 +1,10 @@
+de:
+  users:
+    edit:
+      tabs:
+        edit: "Profil"
+        my_campaigns: "Meine Kampagnen"
+        ive_contributed: "Unterstuetze Kampagnen"
+        credits: 'Credits'
+        payments: 'Zahlungsoptionen'
+        settings: 'Einstellungen'

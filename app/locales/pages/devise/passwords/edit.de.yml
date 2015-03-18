@@ -1,0 +1,15 @@
+de:
+  devise:
+    passwords:
+      edit:
+        titles:
+          site: 'Ein Passwort setzen'
+          header: 'Password zur&uuml;cksetzen'
+        form:
+          hint:
+            password_length: 'Muss mindestens 6 Zeichen lang sein.'
+          labels:
+            password: 'Neues Password'
+            password_confirmation: 'Password erneut eingeben'
+          inputs:
+            submit: 'Speichern und Login'

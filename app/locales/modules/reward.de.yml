@@ -1,0 +1,6 @@
+de:
+  reward:
+    dont_want: "Nur spenden, keine Belohnung."
+    limited: 'Begrenzt'
+    sold_out: 'Vergriffen'
+    display_remaining: "Nur noch %{remaining} von %{maximum} verfuegbar"

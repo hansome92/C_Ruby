@@ -1,0 +1,13 @@
+de:
+  activerecord:
+    errors:
+      models:
+        user:
+          attributes:
+            email:
+              not_found: "Diese E-Mail-Adresse existiert nicht im System. Bitte versuchen Sie es erneut oder registrieren sich neu."
+              taken: "Die E-Mail wird bereits verwendet. Loggen Sie sich einfach ein"
+              invalid: "Ungueltige E-Mail"
+            password:
+              too_short: "Ihr Passwort ist zu kurz."
+              confirmation: "Passwort stimmt nicht ueberein"
